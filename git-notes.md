@@ -242,3 +242,4 @@ List local branches = `git branch`
 List remote branches = `git branch -r`
 
 List both local and remote branches = `git branch -a`
+
